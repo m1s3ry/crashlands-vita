@@ -21,6 +21,7 @@ It **WILL NOT WORK* with an illegal copy of the game due to hash check.
 
 ## Known Problems
 * Loading times are pretty long, so don't be afraid, your Vita didn't crash. About 2 minutes.
+* Autosave is not super reliable. Use manual save too (just press Select for quicksave)
 
 ## Credits
 Credits for the original game go to Butterscotch Shenanigans team.

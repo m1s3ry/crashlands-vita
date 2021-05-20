@@ -5,7 +5,7 @@ A patch to make Crashlands playable on the PS Vita
 
 ## Disclaimer
 This patch does not contain any game files from Crashlands. **You need the game files from your legally owned copy**.
-If you don't have a copy of the game, you can buy it [HERE](https://store.steampowered.com/app/1503530/Minit_Fun_Racer/)
+If you don't have a copy of the game, you can buy it [HERE](https://store.steampowered.com/app/391730/Crashlands/)
 It **WILL NOT WORK* with an illegal copy of the game due to hash check.
 
 ## Instructions (Read them carefully)

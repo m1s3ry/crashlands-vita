@@ -25,6 +25,9 @@ It **WILL NOT WORK* with an illegal copy of the game due to hash check.
 
 ## Credits
 Credits for the original game go to Butterscotch Shenanigans team.
+
+@theyankeewithnovim for helping me with technical stuff
+
 Additional credit for the port goes to @Grossleymoo for UTMT and helping/teaching me to port Vita games.
 
 ## Donations
